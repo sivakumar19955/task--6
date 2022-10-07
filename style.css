@@ -4,10 +4,11 @@ padding:0px;
 }
 .container{
     border: 1px solid black;
-    margin: 14px 592px;
+   
     height: 357px;
 	background-color: green;
 	color:white;
+      margin: 14px 330px;
 }
 .ngk h1{
 	  text-align:center;
