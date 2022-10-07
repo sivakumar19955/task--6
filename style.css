@@ -1,0 +1,31 @@
+*
+{margin:0px;
+padding:0px;
+}
+.container{
+    border: 1px solid black;
+    margin: 14px 592px;
+    height: 357px;
+	background-color: green;
+	color:white;
+}
+.ngk h1{
+	  text-align:center;
+	  padding:px;
+}
+.ngk p{
+	text-align:center;
+	padding:30px;
+}
+.vino{
+	text-align:center;
+	padding:30px;
+}
+.vino a{
+	   border-color: #6dd05a;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #80d474;
+    color: antiquewhite;
+	text-decoration:none;
+}
